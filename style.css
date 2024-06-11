@@ -1,0 +1,36 @@
+
+body {
+    text-align: center;
+}
+
+#myCanvas {
+    border: 2px solid black;
+}
+
+#seagull-img {
+    display: none;
+}
+
+#ghostOne {
+    display: none;
+}
+
+#ghostTwo {
+    display: none;
+}
+
+#ghostThree {
+    display: none;
+}
+
+#ghostFour {
+    display: none;
+}
+
+#pacmanone {
+    display: none;
+}
+
+#pacmantwo {
+    display: none;
+}
